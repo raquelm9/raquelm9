@@ -18,6 +18,9 @@ Emissions management software platform.
 **Tugboat Logic** (acquired by OneTrust) — Front End Developer · Mar 2021 to May 2023
 Security assurance platform.
 
+**InceptionU** — Full Stack Developer · Sep 2020 to Feb 2021
+Full stack development with Node.js.
+
 ### What I build
 
 **Revenue paths.** Stripe checkout and the subscription lifecycle for two brands, including the failure states most checkouts never handle: script load failures, bfcache restores, plan parameters lost across authentication, and account deletion attempted with an active subscription.
