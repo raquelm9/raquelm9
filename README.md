@@ -1,47 +1,47 @@
 ## Raquel Mijares
 
-Software developer in Calgary since 2020, with an engineering background before that.
+Developer in Calgary. Started in 2020, engineering degree before that.
 
-Most of my work has been on products where being wrong has consequences: payments and subscriptions, children's privacy, emissions reporting, and security compliance. Four industries, one requirement. The edge cases have to actually work, and someone audits them.
+I've mostly worked on things that get audited. Payments, kids privacy, emissions reporting, security compliance.
 
 ### Experience
 
-**A Parent Media Co. (APMC)** — Software Developer · Sep 2024 to present  
-Consumer streaming platform for two brands on a shared Nuxt and TypeScript monorepo, plus a smart TV app, native mobile release pipelines, and a Flutter desktop tool used by live broadcast operators. I own checkout and subscriptions, ad attribution, DRM playback, and children's privacy compliance. Earlier, the growth side: campaign and landing pages, Mailchimp and ViralSweep integrations, and GA4 and GTM tracking for a marketing site.
+**APMC** · Software Developer · Sep 2024 to now  
+Streaming for two brands sharing one Nuxt and TypeScript monorepo. There's also a smart TV app, the native mobile releases, and a Flutter desktop tool the broadcast operators use during live games. I own checkout and subscriptions, ad attribution, DRM playback and the COPPA side. My first year here was the growth work instead: campaign pages, Mailchimp and ViralSweep, GA4 and GTM.
 
-**Kettl** — Software Engineer · Sep 2023 to Sep 2024  
-Production management system for live events. Built user management, production control and workforce tracking, and integrated GraphQL APIs for real time data that replaced manual operational workflows. React, Next.js, Apollo GraphQL, Prisma and PostgreSQL.
+**Kettl** · Software Engineer · Sep 2023 to Sep 2024  
+Production management for live events. I built user management, production control and workforce tracking, and wired up the GraphQL side so data came in live instead of by hand. React, Next.js, Apollo, Prisma, Postgres.
 
-**Validere** — Software Developer · May 2023 to Nov 2023  
-Emissions management platform for the energy industry, replacing spreadsheets and manual workflows with automated, auditable reporting. Built the role and account management interfaces behind permission control, and a change log feature for transparent data tracking. React, TypeScript, Storybook and Vercel.
+**Validere** · Software Developer · May 2023 to Nov 2023  
+Emissions reporting for oil and gas, replacing a lot of spreadsheets. I built the roles and account management screens behind permissions, plus a change log so people could see what had been edited. React, TypeScript, Storybook, Vercel.
 
-**Tugboat Logic** (acquired by OneTrust) — Front End Developer · Mar 2021 to May 2023  
-Security assurance platform that automates evidence collection and audit readiness across SOC 2, ISO 27001, GDPR and HIPAA. Built customer facing dashboard features and version comparison tooling for audit workflows, plus a reusable component library in Storybook. React, TypeScript, Redux and Cypress.
+**Tugboat Logic** (bought by OneTrust) · Front End Developer · Mar 2021 to May 2023  
+Security compliance platform covering SOC 2, ISO 27001, GDPR and HIPAA. I worked on customer facing dashboard features, version comparison for audit workflows, and a component library in Storybook. React, TypeScript, Redux, Cypress.
 
-**InceptionU** — Full Stack Developer · Sep 2020 to Feb 2021  
-Project based full stack program building real software for real clients. Node.js.
+**InceptionU** · Full Stack Developer · Sep 2020 to Feb 2021  
+Where I started. Real projects for real clients. Node.
 
-### Current work, in depth
+### What I do now
 
-**Revenue paths.** Stripe checkout and the subscription lifecycle for two brands, including the failure states most checkouts never handle: script load failures, bfcache restores, plan parameters lost across authentication, and account deletion attempted with an active subscription.
+**Payments.** Stripe checkout and subscriptions for both brands. Most of my time goes to the ugly parts: the script fails to load, the user hits back and the page restores from cache, the plan gets lost somewhere in login, someone tries to delete an account that still has an active subscription.
 
-**Ad attribution.** Meta CAPI and TikTok conversion events, last click integrity across `fbclid` and UTM parameters, protection against organic traffic overwriting paid attribution, and ad beacon correctness including quartile deduplication and view count accuracy.
+**Attribution.** Meta CAPI and TikTok events. Keeping last click honest across fbclid and UTM so organic doesn't take credit for paid. Ad beacons too, including some view counts that were quietly wrong.
 
-**Playback.** DRM delivery and recovery, playback variant preservation across reloads, DVR and VOD seek behaviour, and caption state that survives track changes.
+**Playback.** DRM, and recovering from it when it fails. Seeking on DVR and VOD. Captions that stay off when you turn them off.
 
-**Compliance.** kidSAFE COPPA certification surfaces, consent management across web and smart TV, and privacy gating on analytics in a children's product.
+**Compliance.** kidSAFE COPPA, consent across web and TV, and keeping analytics quiet until someone actually says yes.
 
-**Design systems.** A full migration off a legacy modal stack onto a token driven dialog system across two brands, ending with the deletion of the system it replaced.
+**Design system.** Moved both brands off the old modal stack onto dialogs, then deleted the old one.
 
-### Scale
+### Numbers
 
-Over the last two years, across 11 repositories:
+Last two years, across 11 repos:
 
-- **849 pull requests merged**
-- **458 pull requests reviewed** for other engineers
-- Around 3,400 commits authored
+- 849 pull requests merged
+- 458 reviewed for other people
+- Around 3,400 commits
 
-Most of it is in private repositories, so the graph below understates it. That work is on [@raquel-aparentmedia](https://github.com/raquel-aparentmedia), the account tied to my employer's organization: the repositories stay private, but the contribution volume is visible there.
+Almost all of it is private, so the graph below shows very little. The real one is on [@raquel-aparentmedia](https://github.com/raquel-aparentmedia) if you want to look.
 
 ### Stack
 
@@ -52,9 +52,9 @@ Most of it is in private repositories, so the graph below understates it. That w
 **Styling and tooling** `Tailwind` · `Figma` · `Git` · `Docker` · `AWS` · `Vercel` · `GitHub Actions`  
 **Analytics** `GA4` · `Google Tag Manager` · `Meta CAPI`
 
-### Education
+### School
 
-BSc in Production Engineering, Universidad Metropolitana (UNIMET), Venezuela.
+BSc in Production Engineering, Universidad Metropolitana, Venezuela.
 
 ### Elsewhere
 
