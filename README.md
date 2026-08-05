@@ -41,7 +41,7 @@ Over the last two years, across 11 repositories:
 - **458 pull requests reviewed** for other engineers
 - Around 3,400 commits authored
 
-Most of it is in private repositories, so the graph below understates it.
+Most of it is in private repositories, so the graph below understates it. That work is on [@raquel-aparentmedia](https://github.com/raquel-aparentmedia), the account tied to my employer's organization: the repositories stay private, but the contribution volume is visible there.
 
 ### Stack
 
