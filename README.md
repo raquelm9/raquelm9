@@ -49,4 +49,4 @@ Most of it is in private repositories, so the graph below understates it.
 
 ### Elsewhere
 
-[raquel-mijares.com](https://www.raquel-mijares.com/) · [LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
+[LinkedIn](https://www.linkedin.com/in/raquelmjrs/)
