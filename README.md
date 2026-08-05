@@ -6,19 +6,19 @@ Most of my work has been on products where being wrong has consequences: payment
 
 ### Experience
 
-**A Parent Media Co. (APMC)** — Software Developer · Sep 2024 to present
+**A Parent Media Co. (APMC)** — Software Developer · Sep 2024 to present  
 Consumer streaming platform for two brands on a shared Nuxt and TypeScript monorepo, plus a smart TV app, native mobile release pipelines, and a Flutter desktop tool used by live broadcast operators. I own checkout and subscriptions, ad attribution, DRM playback, and children's privacy compliance. Earlier, the growth side: campaign and landing pages, Mailchimp and ViralSweep integrations, and GA4 and GTM tracking for a marketing site.
 
-**Kettl** — Software Engineer · Sep 2023 to Sep 2024
+**Kettl** — Software Engineer · Sep 2023 to Sep 2024  
 Production management system for live events. Built user management, production control and workforce tracking, and integrated GraphQL APIs for real time data that replaced manual operational workflows. React, Next.js, Apollo GraphQL, Prisma and PostgreSQL.
 
-**Validere** — Software Developer · May 2023 to Nov 2023
+**Validere** — Software Developer · May 2023 to Nov 2023  
 Emissions management platform for the energy industry, replacing spreadsheets and manual workflows with automated, auditable reporting. Built the role and account management interfaces behind permission control, and a change log feature for transparent data tracking. React, TypeScript, Storybook and Vercel.
 
-**Tugboat Logic** (acquired by OneTrust) — Front End Developer · Mar 2021 to May 2023
+**Tugboat Logic** (acquired by OneTrust) — Front End Developer · Mar 2021 to May 2023  
 Security assurance platform that automates evidence collection and audit readiness across SOC 2, ISO 27001, GDPR and HIPAA. Built customer facing dashboard features and version comparison tooling for audit workflows, plus a reusable component library in Storybook. React, TypeScript, Redux and Cypress.
 
-**InceptionU** — Full Stack Developer · Sep 2020 to Feb 2021
+**InceptionU** — Full Stack Developer · Sep 2020 to Feb 2021  
 Project based full stack program building real software for real clients. Node.js.
 
 ### Current work, in depth
@@ -45,11 +45,11 @@ Most of it is in private repositories, so the graph below understates it.
 
 ### Stack
 
-**Languages** `TypeScript` · `JavaScript` · `Dart` · `HTML` · `CSS`
-**Frameworks** `Vue 3` · `Nuxt` · `React` · `Next.js` · `Flutter` · `Node`
-**State and data** `Pinia` · `Redux` · `Apollo GraphQL` · `Prisma` · `PostgreSQL` · `REST`
-**Testing** `Vitest` · `Playwright` · `Cypress` · `React Testing Library` · `MSW` · `Storybook`
-**Styling and tooling** `Tailwind` · `Figma` · `Git` · `Docker` · `AWS` · `Vercel` · `GitHub Actions`
+**Languages** `TypeScript` · `JavaScript` · `Dart` · `HTML` · `CSS`  
+**Frameworks** `Vue 3` · `Nuxt` · `React` · `Next.js` · `Flutter` · `Node`  
+**State and data** `Pinia` · `Redux` · `Apollo GraphQL` · `Prisma` · `PostgreSQL` · `REST`  
+**Testing** `Vitest` · `Playwright` · `Cypress` · `React Testing Library` · `MSW` · `Storybook`  
+**Styling and tooling** `Tailwind` · `Figma` · `Git` · `Docker` · `AWS` · `Vercel` · `GitHub Actions`  
 **Analytics** `GA4` · `Google Tag Manager` · `Meta CAPI`
 
 ### Education
