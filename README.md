@@ -37,9 +37,9 @@ Where I started. Real projects for real clients. Node.
 
 Last two years, across 11 repos:
 
-- 849 pull requests merged
-- 458 reviewed for other people
-- Around 3,400 commits
+* 849 pull requests merged
+* 458 reviewed for other people
+* Around 3,400 commits
 
 Almost all of it is private, so the graph below shows very little. The real one is on [@raquel-aparentmedia](https://github.com/raquel-aparentmedia) if you want to look.
 
